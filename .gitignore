@@ -1,0 +1,5 @@
+*.dll
+*.suo
+*.db
+*.bin
+*.ini
